@@ -1,7 +1,7 @@
-# 🌟 ALONE BEAST - The Digital Architect 🌟
-
 <div align="center">
   
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=ALONE%20BEAST&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=The%20Digital%20Architect%20🔥&descAlignY=55&descSize=25)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Digital+Realm;I+Craft+Exploits+%26+Code;Silent+Mind%2C+Loud+Code;Breaking+Limits+in+Shadows)
 
 </div>
@@ -10,14 +10,11 @@
 
 ## 🎭 **About The Beast**
 
-```ascii
- ██████╗ ██╗      ██████╗ ███╗   ██╗███████╗    ██████╗ ███████╗ █████╗ ███████╗████████╗
-██╔═══██╗██║     ██╔═══██╗████╗  ██║██╔════╝    ██╔══██╗██╔════╝██╔══██╗██╔════╝╚══██╔══╝
-██║   ██║██║     ██║   ██║██╔██╗ ██║█████╗      ██████╔╝█████╗  ███████║███████╗   ██║   
-██║   ██║██║     ██║   ██║██║╚██╗██║██╔══╝      ██╔══██╗██╔══╝  ██╔══██║╚════██║   ██║   
-╚██████╔╝███████╗╚██████╔╝██║ ╚████║███████╗    ██████╔╝███████╗██║  ██║███████║   ██║   
- ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
-```
+<div align="center">
+
+![3D Text](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&height=60&lines=💀+MASTER+OF+SHADOWS+💀;🔥+CODE+WARRIOR+🔥;⚡+DIGITAL+PHANTOM+⚡;🌟+CYBER+LEGEND+🌟)
+
+</div>
 
 <div align="center">
 
@@ -174,13 +171,9 @@
 
 <div align="center">
 
-```
-     ╔══════════════════════════════════════════════════════════════╗
-     ║  "In the realm of code, I am both creator and destroyer.     ║
-     ║   Every exploit crafted is a lesson in digital resilience.  ║
-     ║   I don't just write code - I architect digital evolution." ║
-     ╚══════════════════════════════════════════════════════════════╝
-```
+> *"In the realm of code, I am both creator and destroyer.  
+> Every exploit crafted is a lesson in digital resilience.  
+> I don't just write code - I architect digital evolution."*
 
 </div>
 
@@ -208,5 +201,7 @@
 *"In shadows I code, in silence I conquer. Every line of code is a step towards digital mastery."*
 
 **ALONE BEAST** | *Digital Architect & Ethical Hacker*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
