@@ -114,11 +114,11 @@
 
 ---
 
-## 🎵 **Currently Vibing To**
+## 🎵 **Digital Vibes**
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hiddenghost9737&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=hiddenghost9737&redirect=true)
+![Music](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=🎧+Coding+with+Dark+Synthwave;🎵+Lo-Fi+Hip+Hop+Beats;🔊+Cyberpunk+2077+OST;🎶+Electronic+Music+Vibes)
 
 </div>
 
@@ -194,7 +194,15 @@
 
 ### 🌟 **Thanks for visiting my digital realm!** 🌟
 
-![Snake animation](https://github.com/hiddenghost9737/hiddenghost9737/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+![Hacker GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+**💀 The Beast is Always Watching 💀**
+
+![Matrix](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&pause=2000&color=00FF00&center=true&vCenter=true&width=600&lines=Access+Granted...;Initiating+Hack+Sequence...;Welcome+to+the+Matrix...;Reality+is+an+Illusion...)
+
+</div>
 
 ---
 
