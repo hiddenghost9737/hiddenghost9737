@@ -52,7 +52,6 @@
 ### ⚡ Contact Me
 
 - **Instagram:** [@alone_beast_0010](https://instagram.com/alone_beast_0010)  
-- **Mail:** mishrachandan5512@gmail.com
 
 ---
 
